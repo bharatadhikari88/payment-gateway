@@ -1,0 +1,5 @@
+gateway:
+  env: sandbox
+  merchantId: wxg852rzzwh3r9x2
+  publicKey: dvwkyz2m7p8vk6bq
+  privateKey: 16a6b0d398c9a0f0b02445ba2594e9f9
