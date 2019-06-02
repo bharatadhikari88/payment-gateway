@@ -1,2 +1,2 @@
 # payment-gateway
-Payment gateway integration.
+Payment gateway integration..
